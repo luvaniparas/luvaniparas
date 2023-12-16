@@ -36,4 +36,4 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/paras-luvani-733391180/"><img src="https://img.shields.io/badge/-Paras%20Luvani-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="parasluvani1@gamil.com"><img src="https://img.shields.io/badge/-parasluvani1@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:parasluvani1@gamil.com"><img src="https://img.shields.io/badge/-parasluvani1@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
