@@ -28,7 +28,8 @@
 ## My Stats
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=parasluvani&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luvaniparas&theme=radical&layout=compact&exclude_lang=java+r" />
+  <a href="mailto:luvaniparas1@gmail.com"><img src="https://img.shields.io/badge/-luvaniparas1@gmail.com-D14836?style=flat-    square&logo=Gmail&logoColor=white"/></a>
+
 </p>
 
 
