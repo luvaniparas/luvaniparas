@@ -28,7 +28,7 @@
 ## My Stats
 <p>
 <a href="https://github.com/luvaniparas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=parasluvani&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luvaniparas&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luvaniparas&theme=radical&layout=compact" />
 </a>
 </p>
